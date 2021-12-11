@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding... I guess
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on (yet to decide)
-- 📫 How to reach me via Discord: Ziorky#7527
+- 📫 How to reach me via Discord: Ziorky#1111
 
 <!---
 Ziorky/Ziorky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
